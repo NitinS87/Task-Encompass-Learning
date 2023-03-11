@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Encompass-Learning/static/css/main.49881f37.css",
+    "main.js": "/Task-Encompass-Learning/static/js/main.28879c44.js",
+    "index.html": "/Task-Encompass-Learning/index.html",
+    "main.49881f37.css.map": "/Task-Encompass-Learning/static/css/main.49881f37.css.map",
+    "main.28879c44.js.map": "/Task-Encompass-Learning/static/js/main.28879c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49881f37.css",
+    "static/js/main.28879c44.js"
+  ]
+}
