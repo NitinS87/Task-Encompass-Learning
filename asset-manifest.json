@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Task-Encompass-Learning/static/css/main.49881f37.css",
-    "main.js": "/Task-Encompass-Learning/static/js/main.28879c44.js",
+    "main.js": "/Task-Encompass-Learning/static/js/main.b6b7794a.js",
     "index.html": "/Task-Encompass-Learning/index.html",
     "main.49881f37.css.map": "/Task-Encompass-Learning/static/css/main.49881f37.css.map",
-    "main.28879c44.js.map": "/Task-Encompass-Learning/static/js/main.28879c44.js.map"
+    "main.b6b7794a.js.map": "/Task-Encompass-Learning/static/js/main.b6b7794a.js.map"
   },
   "entrypoints": [
     "static/css/main.49881f37.css",
-    "static/js/main.28879c44.js"
+    "static/js/main.b6b7794a.js"
   ]
 }
