@@ -3,8 +3,6 @@ import "./App.css";
 import HomePage from "./pages/HomePage";
 import { ContactUs, Footer, Header } from "./components";
 import ProgressBar from "react-progressbar-on-scroll";
-import { BiArrowFromBottom } from "react-icons/bi";
-import { useEffect, useState } from "react";
 function App() {
   return (
     <div className="min-h-screen min-w-full overflow-hidden scroll-smooth">
@@ -16,7 +14,7 @@ function App() {
       />
       <Header />
       <Routes>
-        <Route path="/" exact element={<HomePage />} />
+        <Route path="/Task-Encompass-Learning/" exact element={<HomePage />} />
       </Routes>
       <ContactUs />
       <Footer />

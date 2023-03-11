@@ -2,7 +2,7 @@
   "name": "task-encompass",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NitinS87.github.io/Task-Encompass-Learning",
+  "homepage": "http://NitinS87.github.io/Task-Encompass-Learning/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
